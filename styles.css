@@ -196,6 +196,7 @@ nav {
 }
 
 .fixed-background {
+    overflow: hidden;
     padding: 3rem 0;
     text-shadow: -1px 1px 4px black;
 }
